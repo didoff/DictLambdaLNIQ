@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WordCount_Example
 {
-    class WordCount
+    class OddOccurances
     {
         static void Main(string[] args)
         {
@@ -26,13 +26,18 @@ namespace WordCount_Example
                 }
             }
 
+            var outP = new List<string>();
+
+            
             foreach (var entry in counts)
             {
                 if(entry.Value % 2 != 0)
                 {
-                    Console.WriteLine(entry.Key);
+                    outP.Add(entry.Key);
                 }
             }
+
+            Console.WriteLine(string.Join(", ", outP));
 
         }
     }
