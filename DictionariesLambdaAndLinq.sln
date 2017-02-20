@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount-Example", "WordCount-Example\WordCount-Example.csproj", "{DB17BA8C-1BBA-495E-8F66-A04C9D622F61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxAvg", "MinMaxAvg\MinMaxAvg.csproj", "{B6D46660-75E5-465E-AE71-C220E40827E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB17BA8C-1BBA-495E-8F66-A04C9D622F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB17BA8C-1BBA-495E-8F66-A04C9D622F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB17BA8C-1BBA-495E-8F66-A04C9D622F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D46660-75E5-465E-AE71-C220E40827E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D46660-75E5-465E-AE71-C220E40827E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D46660-75E5-465E-AE71-C220E40827E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D46660-75E5-465E-AE71-C220E40827E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
