@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShortWordsSorted
 {
-    class Program
+    class ShortWordSort
     {
         static void Main(string[] args)
         {

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3", "Largest3\Larges
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortWordsSorted", "ShortWordsSorted\ShortWordsSorted.csproj", "{FEE7E0C3-77A9-465B-9C93-33735FF655F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldAndSum", "FoldAndSum\FoldAndSum.csproj", "{E7466298-F2A7-49DD-8EDA-68E9A006463B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FEE7E0C3-77A9-465B-9C93-33735FF655F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE7E0C3-77A9-465B-9C93-33735FF655F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE7E0C3-77A9-465B-9C93-33735FF655F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7466298-F2A7-49DD-8EDA-68E9A006463B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7466298-F2A7-49DD-8EDA-68E9A006463B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7466298-F2A7-49DD-8EDA-68E9A006463B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7466298-F2A7-49DD-8EDA-68E9A006463B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
